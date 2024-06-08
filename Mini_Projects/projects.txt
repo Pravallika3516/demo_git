@@ -1,0 +1,39 @@
+1. Automated CI/CD Pipeline with Jenkins and AWS CodePipeline
+Description: Set up a CI/CD pipeline that integrates Jenkins for continuous integration and AWS CodePipeline for continuous deployment.
+Tools & Services: Jenkins, AWS CodePipeline, AWS CodeBuild, AWS CodeDeploy, GitHub.
+Key Skills: Pipeline as code, integration of Jenkins with AWS services, automated testing, deployment automation.
+Highlights:
+Configured Jenkins for automated builds.
+Integrated Jenkins with AWS CodePipeline for end-to-end CI/CD.
+Deployed applications to EC2 instances or ECS.
+
+
+2. Infrastructure as Code (IaC) with Terraform
+Description: Use Terraform to provision and manage AWS infrastructure.
+Tools & Services: Terraform, AWS EC2, VPC, S3, IAM.
+Key Skills: Infrastructure as Code, Terraform modules, state management, provisioning AWS resources.
+Highlights:
+Defined AWS infrastructure using Terraform scripts.
+Managed and versioned infrastructure using Terraform state files.
+Implemented security best practices with IAM roles and policies.
+
+
+
+3. Containerization and Orchestration with Docker and Kubernetes
+Description: Containerize applications using Docker and deploy them on an EKS (Elastic Kubernetes Service) cluster.
+Tools & Services: Docker, Kubernetes (EKS), AWS ECR, Helm.
+Key Skills: Dockerfile, Kubernetes deployment, service configuration, scaling.
+Highlights:
+Created Docker images for applications and stored them in ECR.
+Deployed and managed containerized applications on EKS.
+Automated scaling and load balancing of applications using Kubernetes.
+
+4. Serverless Application Development
+Description: Develop and deploy a serverless application using AWS Lambda, API Gateway, and DynamoDB.
+Tools & Services: AWS Lambda, API Gateway, DynamoDB, CloudFormation.
+Key Skills: Serverless architecture, Lambda functions, API Gateway integration, DynamoDB for storage.
+Highlights:
+Developed serverless functions using AWS Lambda.
+Exposed APIs using API Gateway.
+Managed application state and data using DynamoDB.
+Used CloudFormation to automate the deployment of serverless infrastructure.
